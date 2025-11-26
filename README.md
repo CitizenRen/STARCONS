@@ -30,6 +30,3 @@ So if you want me to add a new button please make a request using the discussion
 **RSI**
 
 ![RSI_Theme](https://raw.githubusercontent.com/Ren96/STARCONS/refs/heads/main/assets/STYLE_RSI.png)
-
-# Support
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K313F21D)
