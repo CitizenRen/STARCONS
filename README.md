@@ -11,7 +11,7 @@ So if you want me to add a new button please make a request using the discussion
 
 **Button count as of v1.2: 138**
 
-![Buttons](https://raw.githubusercontent.com/Ren96/STARCONS/refs/heads/main/assets/Buttons.png)
+![Buttons](https://raw.githubusercontent.com/CitizenRen/STARCONS/refs/heads/main/assets/Buttons.png)
 
 # Themes
 
