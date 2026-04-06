@@ -7,7 +7,7 @@ The buttons are available in both SVG and PNG (288px) formats and icons are also
 making it easy to edit and make your own.
 
 STARCONS is constantly being updated with new buttons/icons, 
-So if you want me to add a new button please make a request using the discussions page (https://github.com/Ren96/STARCONS/discussions).
+So if you want me to add a new button please make a request using the discussions page (https://github.com/CitizenRen/STARCONS/discussions).
 
 **Button count as of v1.2: 138**
 
