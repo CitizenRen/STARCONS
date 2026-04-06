@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Ren96/STARCONS/refs/heads/main/assets/Banner.png)
+![Banner](https://raw.githubusercontent.com/CitizenRen/STARCONS/refs/heads/main/assets/Banner.png)
 # Description
 STARCONS is a set of custom buttons inspired by Star Citizen to use with a Stream Deck. 
 The Buttons come in a default white color with additional themes based on in-game manufacturers RSI, DRAKE, and Anvil.
@@ -17,16 +17,16 @@ So if you want me to add a new button please make a request using the discussion
 
 **Default**
 
-![Default_Theme](https://raw.githubusercontent.com/Ren96/STARCONS/refs/heads/main/assets/STYLE_Default.png)
+![Default_Theme](https://raw.githubusercontent.com/CitizenRen/STARCONS/refs/heads/main/assets/STYLE_Default.png)
 
 **DRAKE**
 
-![DRAKE_Theme](https://raw.githubusercontent.com/Ren96/STARCONS/refs/heads/main/assets/STYLE_DRAKE.png)
+![DRAKE_Theme](https://raw.githubusercontent.com/CitizenRen/STARCONS/refs/heads/main/assets/STYLE_DRAKE.png)
 
 **Anvil**
 
-![Anvil_Theme](https://raw.githubusercontent.com/Ren96/STARCONS/refs/heads/main/assets/STYLE_ANVIL.png)
+![Anvil_Theme](https://raw.githubusercontent.com/CitizenRen/STARCONS/refs/heads/main/assets/STYLE_ANVIL.png)
 
 **RSI**
 
-![RSI_Theme](https://raw.githubusercontent.com/Ren96/STARCONS/refs/heads/main/assets/STYLE_RSI.png)
+![RSI_Theme](https://raw.githubusercontent.com/CitizenRen/STARCONS/refs/heads/main/assets/STYLE_RSI.png)
