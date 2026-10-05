@@ -1,0 +1,50 @@
+{
+  "manufacturer": {
+    "Anvil": {
+      "color": "#1FDCB8",
+      "partial_tolerance": 13
+    },
+    "DRAKE": {
+      "color": "#FF901F",
+      "partial_tolerance": 4
+    },
+    "RSI": {
+      "color": "#B0C6E6",
+      "partial_tolerance": 9
+    }
+  },
+  "generic": {
+    "Red": {
+      "color": "#FF1E00",
+      "partial_tolerance": 0
+    },
+    "Orange": {
+      "color": "#FF8000",
+      "partial_tolerance": 0
+    },
+    "Yellow": {
+      "color": "#FFFF00",
+      "partial_tolerance": 0
+    },
+    "Green": {
+      "color": "#00FF40",
+      "partial_tolerance": 0
+    },
+    "Cyan": {
+      "color": "#00FFFF",
+      "partial_tolerance": 0
+    },
+    "Blue": {
+      "color": "#0080FF",
+      "partial_tolerance": 0
+    },
+    "Purple": {
+      "color": "#8000FF",
+      "partial_tolerance": 0
+    },
+    "White": {
+      "color": "#FFFFFF",
+      "partial_tolerance": 0
+    }
+  }
+}
